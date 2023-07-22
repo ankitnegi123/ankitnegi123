@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ankitnegi123
+- 👀 I’m interested in playing with the data and finding insights...
+- 🌱 I’m polishing my Data Analytical Skills...  
+- 📫 How to reach me ankit.negii7245@gmail.com...
+
+<!---
+ankitnegi123/ankitnegi123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
